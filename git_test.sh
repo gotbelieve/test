@@ -3,7 +3,7 @@
 PROJECT_DIR="/home/yao/test"
 
 # Git 仓库 URL
-REPO_URL="git@github.com:Applied-General-Intelligence-Inc/aginlp.git"
+REPO_URL="git@github.com:gotbelieve/test.git"
 
 # 激活 Anaconda 环境的命令
 CONDA_ENV="aginlp-3.8"
